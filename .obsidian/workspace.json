@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sea/Burpsuite.md",
+                "file": "Sea/Exploit for root.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Burpsuite"
+              "title": "Exploit for root"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "9318448195c6f1a7",
   "lastOpenFiles": [
+    "Sea/Burpsuite.md",
     "Sea/content management system.md",
     "Sea/Exploit for root.md",
     "Sea/exploit_for_user.md",
@@ -183,7 +184,6 @@
     "Untitled.md",
     "Pasted image 20250311002232.png",
     "Pasted image 20250311002105.png",
-    "Sea/Burpsuite.md",
     "Pasted image 20250311001459.png",
     "Pasted image 20250311001319.png",
     "Pasted image 20250311001210.png",
